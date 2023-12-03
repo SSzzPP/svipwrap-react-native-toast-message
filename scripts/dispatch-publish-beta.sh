@@ -7,9 +7,9 @@
 
 ## Before running, configure the following params:
 # Github repo
-REPO=calintamas/react-native-toast-message
+REPO=SSzzPP/swipwrap-react-native-toast-message
 # Github username of the user triggering the workflow
-USERNAME=calintamas
+USERNAME=SSzzPP
 # Branch from which the workflow will run
 BRANCH=\"v2.1.0\"
 
