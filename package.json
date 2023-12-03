@@ -15,6 +15,9 @@
     "react-native",
     "toast"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "prepare": "husky install",
     "build": "rm -rf ./lib && tsc",
