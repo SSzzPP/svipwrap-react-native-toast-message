@@ -9,6 +9,12 @@ Headers are one of:
 
 - `Added`, `Changed`, `Removed`, `Fixed` or `Breaking`.
 
+## [2.1.8]
+
+### Fixed
+
+- Fix Toast pop up when other popup/dialog opens
+
 ## [2.1.7]
 
 ### Fixed

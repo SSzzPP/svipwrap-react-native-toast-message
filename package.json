@@ -1,5 +1,5 @@
 {
-  "name": "react-native-toast-message",
+  "name": "@svipwrap/react-native-toast-message",
   "version": "2.1.8",
   "description": "Toast message component for React Native",
   "main": "./lib/index.js",
@@ -25,7 +25,7 @@
     "yalc:push": "yarn build && yalc publish --push",
     "quality": "yarn lint && tsc --noEmit"
   },
-  "author": "Calin Tamas <calintamas2@gmail.com>",
+  "author": "SSzzPP",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.15.8",
