@@ -9,7 +9,7 @@ Headers are one of:
 
 - `Added`, `Changed`, `Removed`, `Fixed` or `Breaking`.
 
-## [2.1.8]
+## [2.2.0]
 
 ### Fixed
 
